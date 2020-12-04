@@ -1,0 +1,6 @@
+Lambdas:
+# A lambda can have multiple arguments separated by commas
+#   lambda arguments: expression
+# the expression always returns an object
+
+# lambda functions are required when function objects are required.
