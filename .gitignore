@@ -1,2 +1,5 @@
 /.vscode
 /AoC-notebook.ipynb
+/.venv/
+/.backup/
+backup/

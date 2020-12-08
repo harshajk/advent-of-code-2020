@@ -5,3 +5,11 @@ Lambdas:
 
 # lambda functions are required when function objects are required.
 
+
+Setup related:
+1. Installing python modules in vs code. Run the following commands:
+    py -3 -m venv .venv
+    .venv\scripts\activate
+
+Misc:
+taskkill /F /PID pid_number
